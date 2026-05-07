@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "3e26c77a-624d-4d3f-a234-2214b49ccfee",
+    "Name": "UsrClientSection_ListPage",
+    "ModifiedOnUtc": "\/Date(1777609985000)\/",
+    "Parent": {
+      "UId": "b7b898d0-8c77-4953-c097-23fa6800da02",
+      "Name": "ListPageV3Template"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Клієнти list page",
+    "DependsOn": []
+  }
+}

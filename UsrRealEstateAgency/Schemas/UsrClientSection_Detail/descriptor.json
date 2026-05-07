@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "5358cbc0-10ca-43fc-a571-cd9932301908",
+    "Name": "UsrClientSection_Detail",
+    "ModifiedOnUtc": "\/Date(1777609985000)\/",
+    "Parent": {
+      "UId": "01eb38ee-668a-42f0-999d-c2534f979089",
+      "Name": "BaseGridDetailV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Клієнти detail",
+    "DependsOn": []
+  }
+}

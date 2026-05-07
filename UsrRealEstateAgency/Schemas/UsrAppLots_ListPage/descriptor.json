@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "197fd6b9-3ef3-4209-b62c-6683a5894aaa",
+    "Name": "UsrAppLots_ListPage",
+    "ModifiedOnUtc": "\/Date(1777625918000)\/",
+    "Parent": {
+      "UId": "b7b898d0-8c77-4953-c097-23fa6800da02",
+      "Name": "ListPageV3Template"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Лоти list page",
+    "DependsOn": []
+  }
+}

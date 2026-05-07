@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Лоти" />
+			<Item Name="Columns.UsrCommission.Caption" Value="Комісія рієлтора" />
+			<Item Name="Columns.UsrCurrency.Caption" Value="Валюта" />
+			<Item Name="Columns.UsrName.Caption" Value="Назва" />
+			<Item Name="Columns.UsrOwner.Caption" Value="Власник" />
+			<Item Name="Columns.UsrPrice.Caption" Value="Вартість" />
+			<Item Name="Columns.UsrPublishedOn.Caption" Value="Дата публікації" />
+			<Item Name="Columns.UsrRealtor.Caption" Value="Рієлтор" />
+			<Item Name="Columns.UsrRealty.Caption" Value="Нерухомість" />
+			<Item Name="Columns.UsrStatus.Caption" Value="Статус" />
+			<Item Name="Columns.UsrType.Caption" Value="Тип лоту" />
+		</Items>
+	</Group>
+</Resources>

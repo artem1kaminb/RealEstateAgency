@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Нерухомість form page" />
+			<Item Name="LocalizableStrings.addRecord_76t371m_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_svm5ut6_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.IndicatorWidget_ou28ies_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.IndicatorWidget_ou28ies_title.Value" Value="Дата останнього перегляду" />
+			<Item Name="LocalizableStrings.IndicatorWidget_u6mbj4k_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.IndicatorWidget_u6mbj4k_title.Value" Value="Кількість успішних угод" />
+		</Items>
+	</Group>
+</Resources>

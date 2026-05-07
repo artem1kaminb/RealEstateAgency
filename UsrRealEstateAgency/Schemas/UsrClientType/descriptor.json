@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "87d69165-3ae1-48ca-89c8-e030298c5e40",
+    "Name": "UsrClientType",
+    "ModifiedOnUtc": "\/Date(1777608468000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Тип клієнта",
+    "DependsOn": []
+  }
+}

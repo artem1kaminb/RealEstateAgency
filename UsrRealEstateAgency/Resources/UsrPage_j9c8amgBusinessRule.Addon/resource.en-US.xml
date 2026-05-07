@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="AddonConfig.Rules.37887ea7-58e0-4c68-6fad-f285a0be4bef.Caption" Value="Видимість обєкта" />
+			<Item Name="Caption" Value="Картка перегляду (Business rules)" />
+		</Items>
+	</Group>
+</Resources>

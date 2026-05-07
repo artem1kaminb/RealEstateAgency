@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "ff09d12e-2ec0-490c-b4a3-20b6f21aa5dc",
+    "Name": "UsrPage_s5benmh",
+    "ModifiedOnUtc": "\/Date(1777812374000)\/",
+    "Parent": {
+      "UId": "ecdcc8ff-272c-4957-9381-7d74ce17e140",
+      "Name": "BaseMiniPageTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Перегляди modal page",
+    "DependsOn": []
+  }
+}

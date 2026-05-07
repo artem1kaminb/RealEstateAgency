@@ -1,0 +1,72 @@
+﻿{
+  "MetaData": {
+    "Schema": {
+      "ManagerName": "AddonSchemaManager",
+      "UId": "5abd162a-726b-4be0-9a73-e9b75f5fcb0c",
+      "A2": "UsrLotBusinessRule",
+      "A5": "3823c19a-e17a-4c44-ab07-2a8c9e3686b8",
+      "B1": [],
+      "B2": [],
+      "B3": [],
+      "B6": "3284c725-0090-4ef8-90e6-fa423dee5950",
+      "B8": "8.3.1.4498",
+      "AD1": "2875510f-8849-40a6-b6fc-5dde505941d4",
+      "AD2": "EntitySchemaManager",
+      "AD3": "BusinessRule",
+      "AD5": "3a2d6f51-1bfc-4c17-aacb-b53de4866b7c",
+      "AD4": {
+        "JI0": "Terrasoft.Core.BusinessRules.BusinessRules",
+        "BRS1": [
+          {
+            "JI0": "Terrasoft.Core.BusinessRules.BusinessRule",
+            "UId": "ef4fe9ce-548d-97b4-bce2-9dd44ae61d95",
+            "BR1": [
+              {
+                "JI0": "Terrasoft.Core.BusinessRules.Models.BusinessRuleCase",
+                "UId": "803ac9b4-19c5-5f7b-3118-c7802ec08d0c",
+                "BRC2": [
+                  {
+                    "JI0": "Terrasoft.Core.BusinessRules.Models.Actions.BusinessRuleActionSetFilter",
+                    "UId": "04baec52-d423-5d7a-981e-cd39e17d809d",
+                    "BRA2": {
+                      "JI0": "Terrasoft.Core.BusinessRules.Models.Expressions.BusinessRuleAttributeExpression",
+                      "UId": "4fcbabc6-104a-36bd-ef7a-23bd22155172",
+                      "BRX1": "UsrOwner"
+                    },
+                    "BRA3": {
+                      "JI0": "Terrasoft.Core.BusinessRules.Models.Expressions.BusinessRuleValueExpression",
+                      "UId": "7d5d3655-6704-e9b1-4ab9-0687de4a56d5",
+                      "BVE1": "{\"items\":{\"527b9d52-5502-4bc4-8d01-e6b7678ee660\":{\"filterType\":4,\"comparisonType\":3,\"isEnabled\":true,\"trimDateTimeParameterToDate\":false,\"leftExpression\":{\"expressionType\":0,\"columnPath\":\"UsrType\"},\"isAggregative\":false,\"dataValueType\":10,\"referenceSchemaName\":\"UsrClientType\",\"rightExpressions\":[{\"expressionType\":2,\"parameter\":{\"dataValueType\":10,\"value\":{\"Name\":\"Орендодавець\",\"Id\":\"e79bf853-ef49-4acb-ad48-ebd6faf231cf\",\"value\":\"e79bf853-ef49-4acb-ad48-ebd6faf231cf\",\"displayValue\":\"Орендодавець\"}}}]}},\"logicalOperation\":0,\"isEnabled\":true,\"filterType\":6,\"rootSchemaName\":\"UsrClient\"}"
+                    }
+                  },
+                  {
+                    "JI0": "Terrasoft.Core.BusinessRules.Models.Actions.BusinessRuleActionSetFilter",
+                    "UId": "96d6e70b-ee32-1ed7-1d0e-bebe2d82b377",
+                    "BRA2": {
+                      "JI0": "Terrasoft.Core.BusinessRules.Models.Expressions.BusinessRuleAttributeExpression",
+                      "UId": "249176c9-5b92-73ce-cae5-9a9ee318384d",
+                      "BRX1": "UsrRealtor"
+                    },
+                    "BRA3": {
+                      "JI0": "Terrasoft.Core.BusinessRules.Models.Expressions.BusinessRuleValueExpression",
+                      "UId": "4700fb5d-d047-8931-9960-2719965aeb1b",
+                      "BVE1": "{\"items\":{\"0a36e1a0-4491-40c7-a274-901d563ea486\":{\"filterType\":4,\"comparisonType\":3,\"isEnabled\":true,\"trimDateTimeParameterToDate\":false,\"leftExpression\":{\"expressionType\":0,\"columnPath\":\"Type\"},\"isAggregative\":false,\"dataValueType\":10,\"referenceSchemaName\":\"ContactType\",\"rightExpressions\":[{\"expressionType\":2,\"parameter\":{\"dataValueType\":10,\"value\":{\"Name\":\"Employee\",\"Id\":\"60733efc-f36b-1410-a883-16d83cab0980\",\"value\":\"60733efc-f36b-1410-a883-16d83cab0980\",\"displayValue\":\"Employee\"}}}]}},\"logicalOperation\":0,\"isEnabled\":true,\"filterType\":6,\"rootSchemaName\":\"Contact\"}"
+                    }
+                  }
+                ]
+              }
+            ],
+            "BR2": [
+              {
+                "JI0": "Terrasoft.Core.BusinessRules.Models.Trigger",
+                "UId": "fb101be0-866a-3753-d40d-d3e0d5b62d1a",
+                "BRT2": 2
+              }
+            ],
+            "BR3": "BusinessRule_9415051"
+          }
+        ]
+      }
+    }
+  }
+}

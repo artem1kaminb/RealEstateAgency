@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="AddonConfig.Rules.129a0f93-6b31-cfbf-ee06-ff9ab4948828.Caption" Value="Логіка поля Результат" />
+			<Item Name="AddonConfig.Rules.2949fcef-94b6-48d8-48c1-3cf863691679.Caption" Value="Фільтрація контактів" />
+			<Item Name="Caption" Value="Перегляди (Business rules)" />
+		</Items>
+	</Group>
+</Resources>

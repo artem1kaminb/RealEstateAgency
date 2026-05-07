@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "d3036c59-0ad7-4801-9e6f-5486ff644c3b",
+    "Name": "UsrLotViewRelatedPage",
+    "ModifiedOnUtc": "\/Date(1777806338000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "Перегляди (Page settings)",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="AddonConfig.Rules.fb3d5db6-722e-d9ba-47ba-f5861de822a8.Caption" Value="Результатік" />
+			<Item Name="Caption" Value="Перегляди page (Business rules)" />
+		</Items>
+	</Group>
+</Resources>

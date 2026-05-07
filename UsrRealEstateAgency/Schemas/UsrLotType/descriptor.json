@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "376a4ead-39c9-485f-967d-32156fc5d7cb",
+    "Name": "UsrLotType",
+    "ModifiedOnUtc": "\/Date(1777624858000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Тип лоту",
+    "DependsOn": []
+  }
+}

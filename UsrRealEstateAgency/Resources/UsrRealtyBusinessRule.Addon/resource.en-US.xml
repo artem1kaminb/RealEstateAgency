@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="AddonConfig.Rules.5719ca55-90c4-d489-098d-d9409cad2b67.Caption" Value="Apply static filter: Відповідальний" />
+			<Item Name="Caption" Value="Нерухомість (Business rules)" />
+		</Items>
+	</Group>
+</Resources>

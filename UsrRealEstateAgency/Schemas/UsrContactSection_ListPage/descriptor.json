@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "f4788863-c7c4-42df-8b73-26f65adbdd19",
+    "Name": "UsrContactSection_ListPage",
+    "ModifiedOnUtc": "\/Date(1777614526000)\/",
+    "Parent": {
+      "UId": "b7b898d0-8c77-4953-c097-23fa6800da02",
+      "Name": "ListPageV3Template"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Контакти list page",
+    "DependsOn": []
+  }
+}

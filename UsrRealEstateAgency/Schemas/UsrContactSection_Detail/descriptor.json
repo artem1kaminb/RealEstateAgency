@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "38a41a07-8162-4209-bfa3-4b258570c67a",
+    "Name": "UsrContactSection_Detail",
+    "ModifiedOnUtc": "\/Date(1777614526000)\/",
+    "Parent": {
+      "UId": "01eb38ee-668a-42f0-999d-c2534f979089",
+      "Name": "BaseGridDetailV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Контакти detail",
+    "DependsOn": []
+  }
+}

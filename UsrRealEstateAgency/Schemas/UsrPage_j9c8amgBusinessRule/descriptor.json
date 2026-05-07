@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "7130fe39-2c12-4c05-9298-ae5442d5b333",
+    "Name": "UsrPage_j9c8amgBusinessRule",
+    "ModifiedOnUtc": "\/Date(1777753771000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "Картка перегляду (Business rules)",
+    "DependsOn": []
+  }
+}

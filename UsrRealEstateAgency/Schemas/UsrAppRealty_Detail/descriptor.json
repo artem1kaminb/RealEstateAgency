@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "03cbd36f-72f1-46b9-b5c4-c00411df70ee",
+    "Name": "UsrAppRealty_Detail",
+    "ModifiedOnUtc": "\/Date(1777620980000)\/",
+    "Parent": {
+      "UId": "01eb38ee-668a-42f0-999d-c2534f979089",
+      "Name": "BaseGridDetailV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Нерухомість detail",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "627beb13-9484-4a82-964d-bfa3ca3d9c94",
+    "Name": "UsrAppLotsRelatedPage",
+    "ModifiedOnUtc": "\/Date(1777625918000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "Лоти (Page settings)",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Лоти form page" />
+			<Item Name="LocalizableStrings.addRecord_1me11ma_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_66k0w32_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_8rkabzh_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_czhcwvf_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_lyca7w9_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_xb8a0s6_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.Button_hj1m116_caption.Value" Value="Запланувати перегляд" />
+			<Item Name="LocalizableStrings.Button_pquk12e_caption.Value" Value="Згенерувати 5 переглядів" />
+			<Item Name="LocalizableStrings.ExpansionPanel_6re1gtq_title.Value" Value="Expansion panel" />
+		</Items>
+	</Group>
+</Resources>

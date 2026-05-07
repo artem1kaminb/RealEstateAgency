@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="AddonConfig.Rules.0fbbeeeb-6dd6-16b4-a971-04a886cde7ef.Caption" Value="гццг9ац" />
+			<Item Name="Caption" Value="Перегляди modal page (Business rules)" />
+		</Items>
+	</Group>
+</Resources>

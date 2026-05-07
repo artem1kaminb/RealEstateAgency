@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Перегляди" />
+			<Item Name="Columns.UsrClient.Caption" Value="Клієнт" />
+			<Item Name="Columns.UsrClientMess.Caption" Value="Коментар клієнта" />
+			<Item Name="Columns.UsrRealtorMess.Caption" Value="Коментар рієлтора" />
+			<Item Name="Columns.UsrResposible.Caption" Value="Відповідальний" />
+			<Item Name="Columns.UsrResult.Caption" Value="Результат" />
+			<Item Name="Columns.UsrStatus.Caption" Value="Стан" />
+			<Item Name="Columns.UsrViewDate.Caption" Value="Дата" />
+			<Item Name="Columns.UsrViewLot.Caption" Value="Лот" />
+		</Items>
+	</Group>
+</Resources>

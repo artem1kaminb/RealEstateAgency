@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "a71d04d9-7e8e-4b79-8b74-1076c06621f9",
+    "Name": "UsrPage_s5benmhBusinessRule",
+    "ModifiedOnUtc": "\/Date(1777754706000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "Перегляди modal page (Business rules)",
+    "DependsOn": []
+  }
+}

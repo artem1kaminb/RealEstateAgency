@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "0e064fc9-e74a-4e1d-ba80-fc3101b8f895",
+    "Name": "UsrGenerateLotViewsProcess",
+    "ModifiedOnUtc": "\/Date(1777958240000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Автоматичне створення переглядів лота",
+    "DependsOn": []
+  }
+}

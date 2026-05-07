@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Нерухомість" />
+			<Item Name="Columns.UsrAdress.Caption" Value="Адреса" />
+			<Item Name="Columns.UsrDescription.Caption" Value="Опис" />
+			<Item Name="Columns.UsrFloor.Caption" Value="Поверх" />
+			<Item Name="Columns.UsrLivingArea.Caption" Value="Житлова площа" />
+			<Item Name="Columns.UsrRealtyName.Caption" Value="Назва" />
+			<Item Name="Columns.UsrRealtySquare.Caption" Value="Площа" />
+			<Item Name="Columns.UsrResponsible.Caption" Value="Відповідальний" />
+			<Item Name="Columns.UsrRoomsCount.Caption" Value="Кількість кімнат" />
+			<Item Name="Columns.UsrType.Caption" Value="Тип" />
+		</Items>
+	</Group>
+</Resources>

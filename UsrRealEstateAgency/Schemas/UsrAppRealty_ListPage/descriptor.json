@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "8721e3fa-1357-49cd-a694-14f131a4a30c",
+    "Name": "UsrAppRealty_ListPage",
+    "ModifiedOnUtc": "\/Date(1777620980000)\/",
+    "Parent": {
+      "UId": "b7b898d0-8c77-4953-c097-23fa6800da02",
+      "Name": "ListPageV3Template"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Нерухомість list page",
+    "DependsOn": []
+  }
+}

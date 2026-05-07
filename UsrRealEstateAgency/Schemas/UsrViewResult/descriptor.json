@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "51641f21-4e3a-4d54-8164-010a5a0889c4",
+    "Name": "UsrViewResult",
+    "ModifiedOnUtc": "\/Date(1777627467000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Результат перегляду",
+    "DependsOn": []
+  }
+}

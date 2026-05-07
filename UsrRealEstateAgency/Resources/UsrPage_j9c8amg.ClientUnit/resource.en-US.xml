@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Картка перегляду" />
+			<Item Name="LocalizableStrings.addRecord_5djsyp8_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_kx7j8t7_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_sip5any_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_xgn920u_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_yg2fwkr_caption.Value" Value="Add new" />
+		</Items>
+	</Group>
+</Resources>

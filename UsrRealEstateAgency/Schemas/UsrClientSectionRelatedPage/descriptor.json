@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "90506a7b-756d-4e8e-9be0-8205742ec85d",
+    "Name": "UsrClientSectionRelatedPage",
+    "ModifiedOnUtc": "\/Date(1777609985000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "Клієнти (Page settings)",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "6acfe609-3502-428e-9f5e-51e4ac33cc7b",
+    "Name": "UsrContactSection_FormPage",
+    "ModifiedOnUtc": "\/Date(1777614526000)\/",
+    "Parent": {
+      "UId": "3b2e117f-8c6b-4ca5-80a2-7ebb497cddf9",
+      "Name": "PageWithTabsFreedomTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Контакти form page",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "0f853fba-8523-40e4-bf50-8428e7b8dd46",
+    "Name": "UsrContactSectionRelatedPage",
+    "ModifiedOnUtc": "\/Date(1777614526000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "Контакти (Page settings)",
+    "DependsOn": []
+  }
+}

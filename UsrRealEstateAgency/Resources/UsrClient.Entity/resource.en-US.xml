@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Клієнт" />
+			<Item Name="Columns.UsrCode.Caption" Value="КОД" />
+			<Item Name="Columns.UsrManager.Caption" Value="Відповідальний менеджер" />
+			<Item Name="Columns.UsrName.Caption" Value="ПІБ" />
+			<Item Name="Columns.UsrPhone.Caption" Value="Мобільний телефон" />
+			<Item Name="Columns.UsrType.Caption" Value="Тип" />
+		</Items>
+	</Group>
+</Resources>

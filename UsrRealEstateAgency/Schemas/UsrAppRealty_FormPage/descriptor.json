@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "8c50d23b-30ed-46fe-9c83-10cbfd9b7539",
+    "Name": "UsrAppRealty_FormPage",
+    "ModifiedOnUtc": "\/Date(1777801347000)\/",
+    "Parent": {
+      "UId": "3b2e117f-8c6b-4ca5-80a2-7ebb497cddf9",
+      "Name": "PageWithTabsFreedomTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Нерухомість form page",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "5823b8b5-d82e-43e2-9b8f-8548e659231c",
+    "Name": "UsrProcess_d379d6a",
+    "ModifiedOnUtc": "\/Date(1777958243000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Лот: Автоматична бронь після угоди",
+    "DependsOn": []
+  }
+}

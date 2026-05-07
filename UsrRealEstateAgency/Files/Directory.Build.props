@@ -1,0 +1,14 @@
+<Project>
+	<ItemGroup Label="Entity Files" Condition="'$(PkgPath)' != ''">
+		<Compile Include="$(PkgPath)/UsrRealEstateAgency/Schemas/UsrClient/UsrClient.cs" Condition="Exists('$(PkgPath)/UsrRealEstateAgency/Schemas/UsrClient/UsrClient.cs')" />
+		<Compile Include="$(PkgPath)/UsrRealEstateAgency/Schemas/UsrClientType/UsrClientType.cs" Condition="Exists('$(PkgPath)/UsrRealEstateAgency/Schemas/UsrClientType/UsrClientType.cs')" />
+		<Compile Include="$(PkgPath)/UsrRealEstateAgency/Schemas/UsrLot/UsrLot.cs" Condition="Exists('$(PkgPath)/UsrRealEstateAgency/Schemas/UsrLot/UsrLot.cs')" />
+		<Compile Include="$(PkgPath)/UsrRealEstateAgency/Schemas/UsrLotStatus/UsrLotStatus.cs" Condition="Exists('$(PkgPath)/UsrRealEstateAgency/Schemas/UsrLotStatus/UsrLotStatus.cs')" />
+		<Compile Include="$(PkgPath)/UsrRealEstateAgency/Schemas/UsrLotType/UsrLotType.cs" Condition="Exists('$(PkgPath)/UsrRealEstateAgency/Schemas/UsrLotType/UsrLotType.cs')" />
+		<Compile Include="$(PkgPath)/UsrRealEstateAgency/Schemas/UsrLotView/UsrLotView.cs" Condition="Exists('$(PkgPath)/UsrRealEstateAgency/Schemas/UsrLotView/UsrLotView.cs')" />
+		<Compile Include="$(PkgPath)/UsrRealEstateAgency/Schemas/UsrRealty/UsrRealty.cs" Condition="Exists('$(PkgPath)/UsrRealEstateAgency/Schemas/UsrRealty/UsrRealty.cs')" />
+		<Compile Include="$(PkgPath)/UsrRealEstateAgency/Schemas/UsrRealtyType/UsrRealtyType.cs" Condition="Exists('$(PkgPath)/UsrRealEstateAgency/Schemas/UsrRealtyType/UsrRealtyType.cs')" />
+		<Compile Include="$(PkgPath)/UsrRealEstateAgency/Schemas/UsrViewResult/UsrViewResult.cs" Condition="Exists('$(PkgPath)/UsrRealEstateAgency/Schemas/UsrViewResult/UsrViewResult.cs')" />
+		<Compile Include="$(PkgPath)/UsrRealEstateAgency/Schemas/UsrViewStatus/UsrViewStatus.cs" Condition="Exists('$(PkgPath)/UsrRealEstateAgency/Schemas/UsrViewStatus/UsrViewStatus.cs')" />
+	</ItemGroup>
+</Project>

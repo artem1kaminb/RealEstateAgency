@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "62a449e3-7a9e-4ea5-ad8e-3fe0cd960135",
+    "Name": "UsrClientBusinessRule",
+    "ModifiedOnUtc": "\/Date(1777616001000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "Клієнт (Business rules)",
+    "DependsOn": []
+  }
+}

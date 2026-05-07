@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "dc6206eb-eb73-49f8-9e5d-db6d744b1725",
+    "Name": "UsrProcess_884afe9",
+    "ModifiedOnUtc": "\/Date(1777958243000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Лот: Архів через 5 днів",
+    "DependsOn": []
+  }
+}

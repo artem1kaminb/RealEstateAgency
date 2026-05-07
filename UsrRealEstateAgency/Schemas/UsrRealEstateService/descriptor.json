@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "30ab89ee-29e8-43bb-9bee-627287d66ab2",
+    "Name": "UsrRealEstateService",
+    "ModifiedOnUtc": "\/Date(1777878892000)\/",
+    "ManagerName": "SourceCodeSchemaManager",
+    "Caption": "Веб-сервіс пошуку нерухомості",
+    "DependsOn": []
+  }
+}

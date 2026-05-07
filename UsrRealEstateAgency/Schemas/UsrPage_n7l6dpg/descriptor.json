@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "a5069ad1-eb27-4419-a948-0a2051fd32e8",
+    "Name": "UsrPage_n7l6dpg",
+    "ModifiedOnUtc": "\/Date(1777926359000)\/",
+    "Parent": {
+      "UId": "ecdcc8ff-272c-4957-9381-7d74ce17e140",
+      "Name": "BaseMiniPageTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Перегляди page",
+    "DependsOn": []
+  }
+}

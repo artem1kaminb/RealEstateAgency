@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "5abd162a-726b-4be0-9a73-e9b75f5fcb0c",
+    "Name": "UsrLotBusinessRule",
+    "ModifiedOnUtc": "\/Date(1777926973000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "Лоти (Business rules)",
+    "DependsOn": []
+  }
+}
